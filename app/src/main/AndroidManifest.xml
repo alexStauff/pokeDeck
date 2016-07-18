@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="edu.dsu_academy_desu.beastery">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="PokeDeck"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".fire"
+            android:label="Fire" />
+        <activity
+            android:name=".water"
+            android:label="Water" />
+        <activity
+            android:name=".grass"
+            android:label="Grass" />
+        <activity
+            android:name=".electric"
+            android:label="Electric" />
+        <activity
+            android:name=".poison"
+            android:label="Poison"/>
+        <activity
+            android:name=".bug"
+            android:label="Bug"/>
+        <activity
+            android:name=".normal"
+            android:label="Normal"/>
+        <activity
+            android:name=".flying"
+            android:label="Flying"/>
+        <activity
+            android:name=".ground"
+            android:label="Ground"/>
+        <activity
+            android:name=".fairy"
+            android:label="Fairy"/>
+        <activity
+            android:name=".fighting"
+            android:label="Fighting"/>
+        <activity
+            android:name=".psychic"
+            android:label="Psychic"/>
+        <activity
+            android:name=".rock"
+            android:label="Rock"/>
+        <activity
+            android:name=".steel"
+            android:label="Steel"/>
+        <activity
+            android:name=".ghost"
+            android:label="Ghost"/>
+        <activity
+            android:name=".ice"
+            android:label="Ice"/>
+        <activity
+            android:name=".dragon"
+            android:label="Dragon">
+        </activity>
+    </application>
+
+</manifest>
