@@ -16,6 +16,7 @@ public class rock extends AppCompatActivity {
         ArrayList<String> rock = new ArrayList<String>();
         rock.add("Rock-types are strong against : Fire, Ice, Flying, Bug");
         rock.add("Rock-types are weak against : Fighting, Ground, Steel");
+        rock.add("");
         rock.add("#074, Geodude");
         rock.add("#075, Graveler");
         rock.add("#076, Golem");

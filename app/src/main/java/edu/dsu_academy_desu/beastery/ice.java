@@ -16,6 +16,7 @@ public class ice extends AppCompatActivity {
         ArrayList<String> ice = new ArrayList<String>();
         ice.add("Ice-types are strong against : Grass, Ground, Flying, Dragons");
         ice.add("Ice-types are weak against : Fire, Water, Ice, Steel");
+        ice.add("");
         ice.add("#124, Jynx");
         ice.add("#131, Lapras");
         ice.add("#144, Articuno");

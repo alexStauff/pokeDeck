@@ -16,6 +16,7 @@ public class electric extends AppCompatActivity {
         ArrayList<String> electric = new ArrayList<String>();
         electric.add("Electric-types are strong against : Water, Flying");
         electric.add("Electric-types are weak against : Electric, Grass, Ground, Dragons");
+        electric.add("");
         electric.add("#025, Pikachu");
         electric.add("#026, Raichu");
         electric.add("#081, Magnemite");

@@ -16,6 +16,7 @@ public class psychic extends AppCompatActivity {
         ArrayList<String> pyschic = new ArrayList<String>();
         pyschic.add("Psychic-types are strong against : Fighting, poison");
         pyschic.add("Psychic-types are weak against : Psychic, Steel");
+        pyschic.add("");
         pyschic.add("#063, Abra");
         pyschic.add("#064, Kadabra");
         pyschic.add("#065, Alakazam");

@@ -16,6 +16,7 @@ public class ground extends AppCompatActivity {
         ArrayList<String> ground = new ArrayList<String>();
         ground.add("Ground-types are strong against : Fire, Electric, Poison, Rock, Steel");
         ground.add("Ground-types are weak against : Grass, Flying, Bug");
+        ground.add("");
         ground.add("#026, Sandshrew");
         ground.add("#027, Sandslash");
         ground.add("#050, Diglett");

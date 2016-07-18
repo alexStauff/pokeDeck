@@ -16,6 +16,7 @@ public class fire extends AppCompatActivity {
         ArrayList<String> fire = new ArrayList<String>();
         fire.add("Fire-types are strong against :Grass, Ice, Bug, Steel ");
         fire.add("Fire-types are weak against : Fire, Water, Rock, Dragon");
+        fire.add("");
         fire.add("@004, Charmander");
         fire.add("#005, Charmeleon");
         fire.add("#006, Charizard");

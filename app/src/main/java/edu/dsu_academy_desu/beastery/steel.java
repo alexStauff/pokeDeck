@@ -16,6 +16,7 @@ public class steel extends AppCompatActivity {
         ArrayList<String> steel = new ArrayList<String>();
         steel.add("Psychic-types are strong against : Ice, Rock, Fairy");
         steel.add("Psychic-types are weak against : Psychic, Steel");
+        steel.add("");
         steel.add("#081, Magnemite");
         steel.add("#082, Magneton");
 

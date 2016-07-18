@@ -16,6 +16,7 @@ public class poison extends AppCompatActivity {
         ArrayList<String> poison = new ArrayList<String>();
         poison.add("Poison-types are strong against : Grass, Fairies");
         poison.add("Poison-types are weak against : Poison, Ground, Rock, Ghost, Steel");
+        poison.add("");
         poison.add("#001, Bulbasaur");
         poison.add("@002, Ivyssaur");
         poison.add("#003, Venasuar");

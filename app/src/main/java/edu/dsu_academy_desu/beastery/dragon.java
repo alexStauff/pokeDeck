@@ -16,6 +16,7 @@ public class dragon extends AppCompatActivity {
         ArrayList<String> dragon = new ArrayList<String>();
         dragon.add("Dragons are strong against : Dragons");
         dragon.add("Dragons are weak against : Steel, Fairy");
+        dragon.add("");
         dragon.add("#147, Fratini");
         dragon.add("#148. Dragonair");
         dragon.add("#149, Dragonite");

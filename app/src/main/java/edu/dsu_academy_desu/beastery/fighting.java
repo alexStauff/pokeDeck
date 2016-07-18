@@ -16,6 +16,7 @@ public class fighting extends AppCompatActivity {
         ArrayList<String> fighting = new ArrayList<String>();
         fighting.add("Fighting-types are strong against :Normal,Ice, Dragons, Steel, Rock");
         fighting.add("Fighting-types are weak against : Flying, Psychic, poison, Bug, Ghost, Fairy");
+        fighting.add("");
         fighting.add("#056, Mankey");
         fighting.add("#057, Primeape");
         fighting.add("#066, Machop");

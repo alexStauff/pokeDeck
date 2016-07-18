@@ -16,6 +16,7 @@ public class grass extends AppCompatActivity {
         ArrayList<String> grass = new ArrayList<String>();
         grass.add("Grass-types are strong against : Water, Ground, Rock");
         grass.add("Grass-types are weak against : Fire, Grass, Poison, Flying, Bug, Dragons, Steel");
+        grass.add("");
         grass.add("#001, Bulbasaur");
         grass.add("@002, Ivyssaur");
         grass.add("#003, Venasuar");

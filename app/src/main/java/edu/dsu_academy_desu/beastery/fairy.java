@@ -16,6 +16,7 @@ public class fairy extends AppCompatActivity {
         ArrayList<String> fairy = new ArrayList<String>();
         fairy.add("Faries are strong against : Dragon, Fighting");
         fairy.add("Faires are weak against : Fire, Poison, Steel");
+        fairy.add("");
         fairy.add("#035, Clefairy");
         fairy.add("#036, Clefable");
         fairy.add("#039, JigglyPuff");

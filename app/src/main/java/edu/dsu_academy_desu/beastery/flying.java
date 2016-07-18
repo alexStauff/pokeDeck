@@ -16,6 +16,7 @@ public class flying extends AppCompatActivity {
         ArrayList<String> flying = new ArrayList<String>();
         flying.add("Flying-types are strong against : Grass, Fighting, Bugs");
         flying.add("Flying-types are weak against : Electric, Rock,  Steel");
+        flying.add("");
         flying.add("#016, Pidgey");
         flying.add("#017, Pidgeotto");
         flying.add("#018, Pidgeot");

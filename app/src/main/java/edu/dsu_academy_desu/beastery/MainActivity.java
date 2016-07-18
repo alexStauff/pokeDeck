@@ -77,7 +77,7 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this,poison.class);
         startActivity(intent);
     }
-    public void psychic(View view)
+    public void pyschic(View view)
     {
         Intent intent = new Intent(this,psychic.class);
         startActivity(intent);

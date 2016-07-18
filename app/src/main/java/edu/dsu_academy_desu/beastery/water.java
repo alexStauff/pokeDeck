@@ -16,6 +16,7 @@ public class water extends AppCompatActivity {
         ArrayList<String> water = new ArrayList<String>();
         water.add("Water-types are strong against : Fire, Ground, Rock");
         water.add("Water-types are weak against : Water, Grass, Dragons");
+        water.add("");
         water.add("#007, Squirtle");
         water.add("@008, Wartortle");
         water.add("#009, Blastoise");

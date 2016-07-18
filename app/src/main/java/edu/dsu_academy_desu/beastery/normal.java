@@ -19,6 +19,7 @@ public class normal extends AppCompatActivity {
         ArrayList<String> normal = new ArrayList<String>();
         normal.add("Normal-types are strong against : Nothing");
         normal.add("Normal-types are weak against : Rock, Ghost, Steel");
+        normal.add("");
         normal.add("#016, Pidgey");
         normal.add("#017, Pidgeotto");
         normal.add("#018, Pidgeot");

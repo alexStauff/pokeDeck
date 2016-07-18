@@ -16,6 +16,7 @@ public class ghost extends AppCompatActivity {
         ArrayList<String> ghost = new ArrayList<String>();
         ghost.add("Ghosts are strong against : Psychic, Rock");
         ghost.add("Ghosts are weak against : Normal, Dragons");
+        ghost.add("");
         ghost.add("#092, Ghastly");
         ghost.add("#093, Haunter");
         ghost.add("#094, Gengar");
